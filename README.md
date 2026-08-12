@@ -62,9 +62,7 @@ Confusion matrix available in model_training.ipynb
 
 Provide an open-source AI model for early detection of pneumonia, supporting medical professionals and developers in building intelligent healthcare applications.
 
-📄 License
 
-This project is released under the MIT License.
 
 
 
